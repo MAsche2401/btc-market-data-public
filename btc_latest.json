@@ -1,114 +1,99 @@
 {
   "symbol": "XBTUSD",
-  "generated_at_utc": "2026-10-29T05:33:11.064260+00:00",
+  "generated_at_utc": "2026-10-30T05:33:03.467157+00:00",
   "source": "Kraken public spot API",
   "ticker": {
-    "price_usd": 80212.2,
-    "bid_usd": 80212.2,
-    "ask_usd": 80212.3,
-    "volume_24h_btc": 2097.35345363,
+    "price_usd": 78517.2,
+    "bid_usd": 78519.6,
+    "ask_usd": 78519.7,
+    "volume_24h_btc": 4564.20887158,
     "change_24h_pct": null,
-    "retrieved_at_utc": "2026-10-29T05:33:11.185161+00:00",
+    "retrieved_at_utc": "2026-10-30T05:33:03.578351+00:00",
     "note": "Latest exchange ticker; not a guaranteed executable price."
   },
   "timeframes": {
     "1h": {
       "interval": "1h",
-      "last_close_usd": 80150.9,
-      "last_candle_open_utc": "2026-10-29T04:00:00+00:00",
-      "last_candle_close_utc": "2026-10-29T05:00:00+00:00",
-      "candle_age_minutes": 33.2,
+      "last_close_usd": 78070.4,
+      "last_candle_open_utc": "2026-10-30T04:00:00+00:00",
+      "last_candle_close_utc": "2026-10-30T05:00:00+00:00",
+      "candle_age_minutes": 33.1,
       "data_fresh": true,
-      "ema20": 80628.87,
-      "ema50": 80595.44,
-      "ema200": 80937.69,
-      "rsi14": 41.72,
+      "ema20": 78941.07,
+      "ema50": 79737.2,
+      "ema200": 80614.45,
+      "rsi14": 39.44,
       "macd": {
-        "macd": -134.15,
-        "signal": 19.89,
-        "histogram": -154.04
+        "macd": -800.03,
+        "signal": -582.08,
+        "histogram": -217.94
       },
-      "volume_last_candle_btc": 96.92,
-      "volume_avg_previous_20_btc": 95.63,
-      "volume_ratio_previous_20": 1.01,
-      "high_20_candles": 81709.1,
-      "low_20_candles": 79614.8,
+      "volume_last_candle_btc": 133.88,
+      "volume_avg_previous_20_btc": 215.7,
+      "volume_ratio_previous_20": 0.62,
+      "high_20_candles": 81882.0,
+      "low_20_candles": 76330.1,
       "candles_analyzed": 720
     },
     "4h": {
       "interval": "4h",
-      "last_close_usd": 79738.3,
-      "last_candle_open_utc": "2026-10-29T00:00:00+00:00",
-      "last_candle_close_utc": "2026-10-29T04:00:00+00:00",
-      "candle_age_minutes": 93.2,
+      "last_close_usd": 78052.1,
+      "last_candle_open_utc": "2026-10-30T00:00:00+00:00",
+      "last_candle_close_utc": "2026-10-30T04:00:00+00:00",
+      "candle_age_minutes": 93.1,
       "data_fresh": true,
-      "ema20": 80609.36,
-      "ema50": 80949.16,
-      "ema200": 81584.56,
-      "rsi14": 41.79,
+      "ema20": 80125.19,
+      "ema50": 80666.73,
+      "ema200": 81473.59,
+      "rsi14": 37.02,
       "macd": {
-        "macd": -11.51,
-        "signal": -86.14,
-        "histogram": 74.64
+        "macd": -375.73,
+        "signal": -146.75,
+        "histogram": -228.99
       },
-      "volume_last_candle_btc": 400.92,
-      "volume_avg_previous_20_btc": 348.59,
-      "volume_ratio_previous_20": 1.15,
-      "high_20_candles": 81709.1,
-      "low_20_candles": 79265.0,
+      "volume_last_candle_btc": 1234.41,
+      "volume_avg_previous_20_btc": 418.81,
+      "volume_ratio_previous_20": 2.95,
+      "high_20_candles": 81882.0,
+      "low_20_candles": 76330.1,
       "candles_analyzed": 720
     },
     "1d": {
       "interval": "1d",
-      "last_close_usd": 81287.1,
-      "last_candle_open_utc": "2026-10-28T00:00:00+00:00",
-      "last_candle_close_utc": "2026-10-29T00:00:00+00:00",
-      "candle_age_minutes": 333.2,
+      "last_close_usd": 77800.0,
+      "last_candle_open_utc": "2026-10-29T00:00:00+00:00",
+      "last_candle_close_utc": "2026-10-30T00:00:00+00:00",
+      "candle_age_minutes": 333.1,
       "data_fresh": true,
-      "ema20": 81704.82,
-      "ema50": 80757.63,
-      "ema200": 76417.25,
-      "rsi14": 47.76,
+      "ema20": 81332.94,
+      "ema50": 80641.64,
+      "ema200": 76431.08,
+      "rsi14": 35.96,
       "macd": {
-        "macd": -427.91,
-        "signal": -203.72,
-        "histogram": -224.19
+        "macd": -678.76,
+        "signal": -298.73,
+        "histogram": -380.03
       },
-      "volume_last_candle_btc": 1825.74,
-      "volume_avg_previous_20_btc": 2010.19,
-      "volume_ratio_previous_20": 0.91,
+      "volume_last_candle_btc": 3681.9,
+      "volume_avg_previous_20_btc": 1900.72,
+      "volume_ratio_previous_20": 1.94,
       "high_20_candles": 84840.0,
-      "low_20_candles": 79120.8,
+      "low_20_candles": 77688.1,
       "candles_analyzed": 720
     }
   },
   "bitunix_futures": {
     "symbol": "BTCUSDT",
     "source": "Bitunix public futures API",
-    "retrieved_at_utc": "2026-10-29T05:33:12.264495+00:00",
-    "last_price_usdt": 80280.0,
-    "mark_price_usdt": 80282.6,
-    "index_price_usdt": 80312.7,
-    "mark_index_premium_pct": -0.03748,
-    "current_funding_rate_pct": 0.1004,
+    "retrieved_at_utc": "2026-10-30T05:33:04.661262+00:00",
+    "last_price_usdt": 78670.0,
+    "mark_price_usdt": 78673.5,
+    "index_price_usdt": 78704.9,
+    "mark_index_premium_pct": -0.0399,
+    "current_funding_rate_pct": 0.1768,
     "funding_interval_hours": 8,
-    "next_funding_time_utc": "2026-10-29T08:00:00+00:00",
+    "next_funding_time_utc": "2026-10-30T08:00:00+00:00",
     "funding_history": [
-      {
-        "funding_rate_pct": 0.000732,
-        "funding_time_utc": "2026-10-22T16:00:00+00:00",
-        "mark_price_usdt": 81648.9
-      },
-      {
-        "funding_rate_pct": 0.004745,
-        "funding_time_utc": "2026-10-23T00:00:00+00:00",
-        "mark_price_usdt": 81384.6
-      },
-      {
-        "funding_rate_pct": 0.007491,
-        "funding_time_utc": "2026-10-23T08:00:00+00:00",
-        "mark_price_usdt": 81542.5
-      },
       {
         "funding_rate_pct": 0.01,
         "funding_time_utc": "2026-10-23T16:00:00+00:00",
@@ -193,230 +178,29 @@
         "funding_rate_pct": 0.006488,
         "funding_time_utc": "2026-10-29T00:00:00+00:00",
         "mark_price_usdt": 81308.8
+      },
+      {
+        "funding_rate_pct": 0.005287,
+        "funding_time_utc": "2026-10-29T08:00:00+00:00",
+        "mark_price_usdt": 79820.1
+      },
+      {
+        "funding_rate_pct": 0.01,
+        "funding_time_utc": "2026-10-29T16:00:00+00:00",
+        "mark_price_usdt": 81722.4
+      },
+      {
+        "funding_rate_pct": 0.003645,
+        "funding_time_utc": "2026-10-30T00:00:00+00:00",
+        "mark_price_usdt": 77972.6
       }
     ],
     "last_completed_1h_candle": {
-      "open_time_utc": "2026-10-29T04:00:00+00:00",
-      "close_usdt": 80220.8,
-      "volume_btc": 702.954
+      "open_time_utc": "2026-10-30T04:00:00+00:00",
+      "close_usdt": 78233.4,
+      "volume_btc": 1555.6659
     },
     "recent_1h_candles": [
-      {
-        "open_time_utc": "2026-10-28T04:00:00+00:00",
-        "open": 81110.9,
-        "high": 81115.0,
-        "low": 80888.0,
-        "close": 80965.1,
-        "volume_btc": 421.4586,
-        "turnover_usdt": 34129347.4705
-      },
-      {
-        "open_time_utc": "2026-10-28T05:00:00+00:00",
-        "open": 80965.1,
-        "high": 80971.5,
-        "low": 80862.1,
-        "close": 80865.2,
-        "volume_btc": 201.3314,
-        "turnover_usdt": 16290191.94262
-      },
-      {
-        "open_time_utc": "2026-10-28T06:00:00+00:00",
-        "open": 80865.2,
-        "high": 80983.3,
-        "low": 80822.6,
-        "close": 80840.1,
-        "volume_btc": 278.4774,
-        "turnover_usdt": 22526001.78666
-      },
-      {
-        "open_time_utc": "2026-10-28T07:00:00+00:00",
-        "open": 80840.1,
-        "high": 81050.2,
-        "low": 80836.3,
-        "close": 81050.2,
-        "volume_btc": 221.8847,
-        "turnover_usdt": 17960941.18444
-      },
-      {
-        "open_time_utc": "2026-10-28T08:00:00+00:00",
-        "open": 81050.2,
-        "high": 81798.7,
-        "low": 81050.1,
-        "close": 81446.3,
-        "volume_btc": 2241.6592,
-        "turnover_usdt": 182557144.19329
-      },
-      {
-        "open_time_utc": "2026-10-28T09:00:00+00:00",
-        "open": 81446.3,
-        "high": 81525.0,
-        "low": 81311.8,
-        "close": 81515.6,
-        "volume_btc": 634.14,
-        "turnover_usdt": 51644403.21333
-      },
-      {
-        "open_time_utc": "2026-10-28T10:00:00+00:00",
-        "open": 81515.6,
-        "high": 81565.0,
-        "low": 81405.9,
-        "close": 81460.4,
-        "volume_btc": 629.4669,
-        "turnover_usdt": 51297214.87167
-      },
-      {
-        "open_time_utc": "2026-10-28T11:00:00+00:00",
-        "open": 81460.4,
-        "high": 81460.4,
-        "low": 81274.9,
-        "close": 81298.2,
-        "volume_btc": 421.6014,
-        "turnover_usdt": 34298808.69478
-      },
-      {
-        "open_time_utc": "2026-10-28T12:00:00+00:00",
-        "open": 81298.2,
-        "high": 81303.4,
-        "low": 80670.2,
-        "close": 80708.2,
-        "volume_btc": 2063.0845,
-        "turnover_usdt": 166945762.40385
-      },
-      {
-        "open_time_utc": "2026-10-28T13:00:00+00:00",
-        "open": 80708.2,
-        "high": 80895.3,
-        "low": 80387.2,
-        "close": 80707.2,
-        "volume_btc": 2458.5738,
-        "turnover_usdt": 198246550.99167
-      },
-      {
-        "open_time_utc": "2026-10-28T14:00:00+00:00",
-        "open": 80707.2,
-        "high": 80844.8,
-        "low": 80431.0,
-        "close": 80572.1,
-        "volume_btc": 1299.0661,
-        "turnover_usdt": 104703501.2479
-      },
-      {
-        "open_time_utc": "2026-10-28T15:00:00+00:00",
-        "open": 80572.1,
-        "high": 80731.9,
-        "low": 80467.5,
-        "close": 80527.9,
-        "volume_btc": 908.0184,
-        "turnover_usdt": 73176908.87097
-      },
-      {
-        "open_time_utc": "2026-10-28T16:00:00+00:00",
-        "open": 80527.9,
-        "high": 80727.5,
-        "low": 80357.5,
-        "close": 80591.5,
-        "volume_btc": 871.6506,
-        "turnover_usdt": 70168676.93448
-      },
-      {
-        "open_time_utc": "2026-10-28T17:00:00+00:00",
-        "open": 80591.5,
-        "high": 80947.0,
-        "low": 80438.2,
-        "close": 80831.2,
-        "volume_btc": 1284.948,
-        "turnover_usdt": 103681259.33351
-      },
-      {
-        "open_time_utc": "2026-10-28T18:00:00+00:00",
-        "open": 80831.2,
-        "high": 81296.6,
-        "low": 80662.4,
-        "close": 80978.0,
-        "volume_btc": 3433.1675,
-        "turnover_usdt": 277961637.97927
-      },
-      {
-        "open_time_utc": "2026-10-28T19:00:00+00:00",
-        "open": 80978.0,
-        "high": 81578.0,
-        "low": 80944.2,
-        "close": 81544.7,
-        "volume_btc": 1463.0347,
-        "turnover_usdt": 118872287.67031
-      },
-      {
-        "open_time_utc": "2026-10-28T20:00:00+00:00",
-        "open": 81544.7,
-        "high": 81759.0,
-        "low": 80945.0,
-        "close": 81291.7,
-        "volume_btc": 2070.799,
-        "turnover_usdt": 168380895.63313
-      },
-      {
-        "open_time_utc": "2026-10-28T21:00:00+00:00",
-        "open": 81291.7,
-        "high": 81415.3,
-        "low": 81105.4,
-        "close": 81323.8,
-        "volume_btc": 643.2248,
-        "turnover_usdt": 52281697.58757
-      },
-      {
-        "open_time_utc": "2026-10-28T22:00:00+00:00",
-        "open": 81323.8,
-        "high": 81397.4,
-        "low": 81100.5,
-        "close": 81238.9,
-        "volume_btc": 301.2643,
-        "turnover_usdt": 24477023.59947
-      },
-      {
-        "open_time_utc": "2026-10-28T23:00:00+00:00",
-        "open": 81238.9,
-        "high": 81333.0,
-        "low": 81114.7,
-        "close": 81308.9,
-        "volume_btc": 389.1627,
-        "turnover_usdt": 31624861.97939
-      },
-      {
-        "open_time_utc": "2026-10-29T00:00:00+00:00",
-        "open": 81308.9,
-        "high": 81343.9,
-        "low": 81063.8,
-        "close": 81063.8,
-        "volume_btc": 430.3507,
-        "turnover_usdt": 34945568.73185
-      },
-      {
-        "open_time_utc": "2026-10-29T01:00:00+00:00",
-        "open": 81063.8,
-        "high": 81066.0,
-        "low": 79942.7,
-        "close": 79972.3,
-        "volume_btc": 2600.2343,
-        "turnover_usdt": 209188623.85494
-      },
-      {
-        "open_time_utc": "2026-10-29T02:00:00+00:00",
-        "open": 79972.3,
-        "high": 80144.6,
-        "low": 79666.9,
-        "close": 79927.4,
-        "volume_btc": 1635.7164,
-        "turnover_usdt": 130673000.73594
-      },
-      {
-        "open_time_utc": "2026-10-29T03:00:00+00:00",
-        "open": 79927.4,
-        "high": 79997.9,
-        "low": 79723.0,
-        "close": 79820.0,
-        "volume_btc": 555.9599,
-        "turnover_usdt": 44386617.25247
-      },
       {
         "open_time_utc": "2026-10-29T04:00:00+00:00",
         "open": 79820.0,
@@ -425,6 +209,222 @@
         "close": 80220.8,
         "volume_btc": 702.954,
         "turnover_usdt": 56262063.77319
+      },
+      {
+        "open_time_utc": "2026-10-29T05:00:00+00:00",
+        "open": 80220.8,
+        "high": 80497.7,
+        "low": 80204.3,
+        "close": 80208.3,
+        "volume_btc": 657.0595,
+        "turnover_usdt": 52793081.40956
+      },
+      {
+        "open_time_utc": "2026-10-29T06:00:00+00:00",
+        "open": 80208.3,
+        "high": 80255.6,
+        "low": 79865.0,
+        "close": 79936.6,
+        "volume_btc": 790.3573,
+        "turnover_usdt": 63262985.86509
+      },
+      {
+        "open_time_utc": "2026-10-29T07:00:00+00:00",
+        "open": 79936.6,
+        "high": 79961.7,
+        "low": 79792.1,
+        "close": 79820.1,
+        "volume_btc": 502.7582,
+        "turnover_usdt": 40153997.41558
+      },
+      {
+        "open_time_utc": "2026-10-29T08:00:00+00:00",
+        "open": 79820.1,
+        "high": 80112.6,
+        "low": 79808.9,
+        "close": 80026.9,
+        "volume_btc": 889.969,
+        "turnover_usdt": 71174322.54636
+      },
+      {
+        "open_time_utc": "2026-10-29T09:00:00+00:00",
+        "open": 80026.9,
+        "high": 80320.0,
+        "low": 80007.6,
+        "close": 80174.3,
+        "volume_btc": 751.4776,
+        "turnover_usdt": 60244884.02245
+      },
+      {
+        "open_time_utc": "2026-10-29T10:00:00+00:00",
+        "open": 80174.3,
+        "high": 80344.9,
+        "low": 80080.0,
+        "close": 80262.7,
+        "volume_btc": 667.6688,
+        "turnover_usdt": 53565870.81821
+      },
+      {
+        "open_time_utc": "2026-10-29T11:00:00+00:00",
+        "open": 80262.7,
+        "high": 80285.1,
+        "low": 80081.7,
+        "close": 80130.9,
+        "volume_btc": 320.7331,
+        "turnover_usdt": 25713189.35771
+      },
+      {
+        "open_time_utc": "2026-10-29T12:00:00+00:00",
+        "open": 80130.9,
+        "high": 80236.9,
+        "low": 79982.2,
+        "close": 80026.1,
+        "volume_btc": 1131.6972,
+        "turnover_usdt": 90612536.68558
+      },
+      {
+        "open_time_utc": "2026-10-29T13:00:00+00:00",
+        "open": 80026.1,
+        "high": 80392.1,
+        "low": 79878.3,
+        "close": 80275.1,
+        "volume_btc": 2123.8121,
+        "turnover_usdt": 170165194.72853
+      },
+      {
+        "open_time_utc": "2026-10-29T14:00:00+00:00",
+        "open": 80275.1,
+        "high": 81513.0,
+        "low": 80228.1,
+        "close": 81155.4,
+        "volume_btc": 4086.9349,
+        "turnover_usdt": 330608041.81412
+      },
+      {
+        "open_time_utc": "2026-10-29T15:00:00+00:00",
+        "open": 81155.4,
+        "high": 81895.5,
+        "low": 81155.4,
+        "close": 81727.5,
+        "volume_btc": 3328.6948,
+        "turnover_usdt": 271476253.77238
+      },
+      {
+        "open_time_utc": "2026-10-29T16:00:00+00:00",
+        "open": 81727.5,
+        "high": 81953.8,
+        "low": 81137.6,
+        "close": 81232.4,
+        "volume_btc": 2514.0697,
+        "turnover_usdt": 204915964.53971
+      },
+      {
+        "open_time_utc": "2026-10-29T17:00:00+00:00",
+        "open": 81232.4,
+        "high": 81232.5,
+        "low": 80636.5,
+        "close": 80853.1,
+        "volume_btc": 1888.3127,
+        "turnover_usdt": 152797940.96012
+      },
+      {
+        "open_time_utc": "2026-10-29T18:00:00+00:00",
+        "open": 80853.1,
+        "high": 80911.9,
+        "low": 80549.7,
+        "close": 80828.0,
+        "volume_btc": 1242.7095,
+        "turnover_usdt": 100307747.55151
+      },
+      {
+        "open_time_utc": "2026-10-29T19:00:00+00:00",
+        "open": 80828.0,
+        "high": 80916.9,
+        "low": 80735.0,
+        "close": 80809.9,
+        "volume_btc": 453.1,
+        "turnover_usdt": 36624260.96654
+      },
+      {
+        "open_time_utc": "2026-10-29T20:00:00+00:00",
+        "open": 80809.9,
+        "high": 80814.8,
+        "low": 78210.3,
+        "close": 78820.7,
+        "volume_btc": 8283.1284,
+        "turnover_usdt": 658199739.81149
+      },
+      {
+        "open_time_utc": "2026-10-29T21:00:00+00:00",
+        "open": 78820.7,
+        "high": 79765.3,
+        "low": 78547.9,
+        "close": 78996.7,
+        "volume_btc": 3654.0314,
+        "turnover_usdt": 289437381.42091
+      },
+      {
+        "open_time_utc": "2026-10-29T22:00:00+00:00",
+        "open": 78996.7,
+        "high": 79242.0,
+        "low": 78600.2,
+        "close": 78983.9,
+        "volume_btc": 2805.0155,
+        "turnover_usdt": 221384815.73227
+      },
+      {
+        "open_time_utc": "2026-10-29T23:00:00+00:00",
+        "open": 78983.9,
+        "high": 78986.8,
+        "low": 77874.2,
+        "close": 77962.7,
+        "volume_btc": 3569.4461,
+        "turnover_usdt": 279575961.16471
+      },
+      {
+        "open_time_utc": "2026-10-30T00:00:00+00:00",
+        "open": 77962.7,
+        "high": 78242.3,
+        "low": 76718.4,
+        "close": 77208.2,
+        "volume_btc": 6796.3228,
+        "turnover_usdt": 525628288.66499
+      },
+      {
+        "open_time_utc": "2026-10-30T01:00:00+00:00",
+        "open": 77208.2,
+        "high": 77333.7,
+        "low": 76585.0,
+        "close": 76789.2,
+        "volume_btc": 3011.4545,
+        "turnover_usdt": 231681596.35989
+      },
+      {
+        "open_time_utc": "2026-10-30T02:00:00+00:00",
+        "open": 76789.2,
+        "high": 77535.0,
+        "low": 76444.7,
+        "close": 77384.7,
+        "volume_btc": 2290.9813,
+        "turnover_usdt": 176465920.13954
+      },
+      {
+        "open_time_utc": "2026-10-30T03:00:00+00:00",
+        "open": 77384.7,
+        "high": 78234.2,
+        "low": 77273.5,
+        "close": 78192.1,
+        "volume_btc": 1604.822,
+        "turnover_usdt": 124890395.57389
+      },
+      {
+        "open_time_utc": "2026-10-30T04:00:00+00:00",
+        "open": 78192.1,
+        "high": 78419.5,
+        "low": 77890.0,
+        "close": 78233.4,
+        "volume_btc": 1555.6659,
+        "turnover_usdt": 121691164.03467
       }
     ]
   },
